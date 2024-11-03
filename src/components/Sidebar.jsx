@@ -11,7 +11,7 @@ const Sidebar = ({ product, closeSidebar }) => (
       <p style={styles.delivery}>Estimated Delivery: <strong>7th November</strong></p>
       <button style={styles.addButton} onClick={() => {
         alert('Added to cart');
-      }}>Add to Cart</button>
+      }}>CheckOut</button>
     </div>
   </div>
 );
