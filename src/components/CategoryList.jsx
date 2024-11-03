@@ -1,4 +1,3 @@
-// src/components/CategoryList.jsx
 import React from 'react';
 
 const categories = ["Phone & Tablet", "Fashion", "Computing", "Appliances"];

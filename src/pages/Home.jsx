@@ -1,4 +1,3 @@
-// src/pages/Home.jsx
 import React from 'react';
 import CategoryList from '../components/CategoryList';
 import ProductCard from '../components/ProductCard';
